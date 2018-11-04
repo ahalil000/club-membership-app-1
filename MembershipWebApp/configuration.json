@@ -1,0 +1,11 @@
+{
+  "ConnectionStrings": {
+    "connstr": "Server=(localdb)\\mssqllocaldb;Database=MembershipDb;Trusted_Connection=True;ConnectRetryCount=0"
+  },
+  "WebServices": {
+    "webservice": "http://localhost:52297/api/DataSource/GetDataSource"
+  },
+  "CurrentEnvironment": {
+    "environment": "DEV"
+  }
+}
